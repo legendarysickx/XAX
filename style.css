@@ -1,0 +1,28 @@
+#s1{
+    text-align: center;
+    background-color: #ff3d00;
+    padding: 50px;
+    margin: 20px;
+
+}
+body{
+    background-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    color: black;
+}
+.s2{
+    width: 80%;
+    background-color: grey;
+    padding: 20px;
+    display: inline-block;
+    text-align: left;
+}
+.top-toolbar{
+    background-color: grey;
+    text-align: center;
+    padding: 20px;
+    margin: 50px;
+    
+}
